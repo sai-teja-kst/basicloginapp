@@ -1,0 +1,14 @@
+/* Write your CSS here */
+
+.bg-container {
+  background-image: linear-gradient(to bottom, black, #b5b9ff, white);
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  height: 100vh;
+  width: 100vw;
+  color: black;
+}
